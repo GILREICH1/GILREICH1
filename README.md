@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GILREICH1 (Gil)
-- 🌱 I’m currently learning JavaScript
-
+- 🥙 British / Isreali
 
 <!---
 GILREICH1/GILREICH1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
