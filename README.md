@@ -1,7 +1,16 @@
 - 👋 Hi, I’m Gil (He/Him)
-- Versatile front-end developer with experience in JavaScript, TypeScript, React, Redux as well as Node, SQL, Mongo and Express 👨‍💻
+- 
+- Versatile front-end developer with experience in JavaScript, TypeScript, React, Redux as well as Node, SQL, Mongo and Express 
+
 - I like new challenges and learning new skills. Previous experience in project management has made me a strong team player and given me good organizational skills 📑
+
+- Latest project: Full Stuck, Code Academy Game: 
+   - https://full-stuck.com/
+   - https://github.com/cw-thesis-project/full-stuck.com.git 
+   
+
 - Outside of work, I am interested in video production, nature and and environmental causes🌍
+
 - 🥙 British / Isreali
 
 <!---
