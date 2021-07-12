@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Gil (He/Him)
 
-- 🥙 British / Isreali
+- 🥙 British / Israeli
 
 - Versatile front-end developer with experience in JavaScript, TypeScript, React, Redux as well as Node, SQL, Mongo and Express 
 
