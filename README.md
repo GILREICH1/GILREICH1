@@ -10,7 +10,7 @@
 
 
 
-### My Toolkit
+### 🧰 My Toolkit
 
 <p>
   <img width="32px" title="HTML5" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg" style="max-width:100%;">
@@ -35,7 +35,7 @@
 
 ---
   
-## Latest Projects
+## 📌 Latest Projects
 ### Full Stuck 
 > <a href="https://full-stuck.com/">LIVE</a> | <a href="https://github.com/cw-thesis-project/full-stuck.com.git ">repo</a>
 
@@ -60,7 +60,7 @@ A tasks, plants and weather tracker for your garden on desktop and mobile.
 
 Built with React, Typescript and Express. Deployed with Heroku.
 
-## Connect with me
+## 📫 Get in Touch!
 > <a href="https://www.linkedin.com/in/greich" target="_blank">LinkedIn</a> | <a href="gilreich12@gmail.com">e-mail</a>
 
 
