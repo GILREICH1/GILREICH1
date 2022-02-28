@@ -51,15 +51,12 @@ Built with React, Redux, TypesScript, and Auth0 and AWS for back end serverless 
 A tasks, plants and weather tracker for your garden on desktop and mobile. 
 
 <span>
-<img src="https://user-images.githubusercontent.com/78416008/125106980-2ac45600-e0d8-11eb-8e54-1998f7336a6d.png" width=15%>
-
-<img src="https://user-images.githubusercontent.com/78416008/125107221-6f4ff180-e0d8-11eb-8fd2-3a84b2df0631.png" width=15%>
-
-<img src="https://user-images.githubusercontent.com/78416008/125108709-51838c00-e0da-11eb-9197-0303a51a8aeb.png" width=15%>
+  <img src="https://user-images.githubusercontent.com/78416008/141751379-aadda49f-55aa-446a-9744-434188f6e8d8.png" width=50% >
+  <img src="https://user-images.githubusercontent.com/78416008/141751299-6b9be3ff-afac-4a5a-b6d6-8506dd811aaa.png" width=15% >
+  <img src="https://user-images.githubusercontent.com/78416008/141751667-268e754a-1513-42f3-928a-5c93a8eddc95.png" width=15% >
 </span>
 
-Built with React, Typescript and Express. Deployed with Heroku.
-
+Built with React, Typescript and Express. Deployed with Heroku and Netlify.
 ## 📫 Get in Touch!
 > <a href="https://www.linkedin.com/in/greich" target="_blank">LinkedIn</a> | <a href="gilreich12@gmail.com">e-mail</a>
 
