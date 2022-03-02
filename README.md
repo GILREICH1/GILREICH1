@@ -45,7 +45,7 @@ An online desktop game with a programming twist.
 Built with React, Redux, TypesScript, and Auth0 and AWS for back end serverless support.
 
 ### grassHeap
-> <a href="https://grassheapclient.herokuapp.com/">LIVE</a> | <a href="https://github.com/GILREICH1/grassHeap">repo</a>
+> <a href="https://www.grassheap.live/">LIVE</a> | <a href="https://github.com/GILREICH1/grassHeap">repo</a>
 
 A tasks, plants and weather tracker for your garden on desktop and mobile. 
 
