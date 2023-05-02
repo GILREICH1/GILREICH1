@@ -35,6 +35,19 @@
 ---
   
 ## 📌 Latest Projects
+### grassHeap
+> <a href="https://grassheap.onrender.com/">LIVE</a> | <a href="https://github.com/GILREICH1/grassHeap">repo</a>
+
+A tasks, plants and weather tracker for your garden on desktop and mobile. 
+
+<span>
+  <img src="https://user-images.githubusercontent.com/78416008/235697776-ec6b2799-327d-4b6a-923c-8e2e33682c3d.png" width=61% >
+  <img src="https://user-images.githubusercontent.com/78416008/235697974-dc201b8e-f8fb-46c3-8fe5-aa5492de9a5c.png" width=15% >
+  <img src="https://user-images.githubusercontent.com/78416008/235698046-9e34c1f8-b476-4a45-b66a-75266a167076.png" width=15% >
+</span>
+
+Built with React, Typescript and Express. Deployed with Render.
+
 ### Full Stuck 
 > <a href="https://full-stuck.com/">LIVE</a> | <a href="https://github.com/cw-thesis-project/full-stuck.com.git ">repo</a>
 
@@ -44,18 +57,7 @@ An online desktop game with a programming twist.
 
 Built with React, Redux, TypesScript, and Auth0 and AWS for back end serverless support.
 
-### grassHeap
-> <a href="https://grassheap.netlify.app/">LIVE</a> | <a href="https://github.com/GILREICH1/grassHeap">repo</a>
 
-A tasks, plants and weather tracker for your garden on desktop and mobile. 
-
-<span>
-  <img src="https://user-images.githubusercontent.com/78416008/141751379-aadda49f-55aa-446a-9744-434188f6e8d8.png" width=50% >
-  <img src="https://user-images.githubusercontent.com/78416008/141751299-6b9be3ff-afac-4a5a-b6d6-8506dd811aaa.png" width=15% >
-  <img src="https://user-images.githubusercontent.com/78416008/141751667-268e754a-1513-42f3-928a-5c93a8eddc95.png" width=15% >
-</span>
-
-Built with React, Typescript and Express. Deployed with Heroku and Netlify.
 ## 📫 Get in Touch!
 > <a href="https://www.linkedin.com/in/greich" target="_blank">LinkedIn</a> | <a href="gilreich12@gmail.com">e-mail</a>
 
