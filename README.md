@@ -48,15 +48,10 @@ A tasks, plants and weather tracker for your garden on desktop and mobile.
 
 Built with React, Typescript and Express. Deployed with Render.
 
-### Full Stuck 
-> <a href="https://full-stuck.com/">LIVE</a> | <a href="https://github.com/cw-thesis-project/full-stuck.com.git ">repo</a>
+### Lira Shapira 
+Local Eco-currency. Contributions welcome! Check out our [issues](https://github.com/orgs/LiraShapira/projects/1/views/1).
 
-An online desktop game with a programming twist. 
-
-<img width="500px" src="https://user-images.githubusercontent.com/78416008/125258075-e910f680-e2f5-11eb-8460-73e1a072e987.png" style="max-width:100%;"> 
-
-Built with React, Redux, TypesScript, and Auth0 and AWS for back end serverless support.
-
+Built with React Native, Redux, TypesScript, and Prisma/PostgreSQL back end.
 
 ## 📫 Get in Touch!
 > <a href="https://www.linkedin.com/in/greich" target="_blank">LinkedIn</a> | <a href="gilreich12@gmail.com">e-mail</a>
