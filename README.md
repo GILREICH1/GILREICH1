@@ -4,8 +4,6 @@
 
 <img width="25px" src="https://user-images.githubusercontent.com/78416008/125609917-cef660ba-8599-450a-811b-3dc05e6aab5d.png"></img> My previous career experience has made me a strong team player and given me good organizational skills
 
-<img width="25px" src="https://user-images.githubusercontent.com/78416008/125608320-33555810-95bc-48a2-8326-c2ea397140f2.png"></img> British, Israeli (He/Him)
-
 <img width="25px" src="https://user-images.githubusercontent.com/78416008/125608283-9d3cfd3d-36a1-4b6a-a6e7-728910f092ed.png"></img> Interested in video production, all things nature and and how tech can be used in tackling climate change
 
 
