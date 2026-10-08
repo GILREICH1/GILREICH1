@@ -48,10 +48,6 @@ Local Eco-currency. Contributions welcome! Check out our [issues](https://github
 
 Built with React Native, Redux, TypesScript, and Prisma/PostgreSQL back end.
 
-## 📫 Get in Touch!
-> <a href="https://www.linkedin.com/in/greich" target="_blank">LinkedIn</a> | <a href="gilreich12@gmail.com">e-mail</a>
-
-
 <!---
 GILREICH1/GILREICH1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
